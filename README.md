@@ -126,3 +126,4 @@ The following are generic or common vulnerabilities that are related to either s
 
 - [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)
 - [Awesome RTC](https://github.com/rtckit/awesome-rtc/)
+- [Awesome Telco](https://github.com/ravens/awesome-telco)
