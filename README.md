@@ -62,6 +62,7 @@ Please create a PR if you think anything should be added to this list. Let us kn
 - [SIPp](http://sipp.sourceforge.net/): SIP based test tool / traffic generator.
     - [SIPp digest leak scenario](http://tomeko.net/other/sipp/sipp_cheatsheet.php)
 - [Mr.SIP](https://github.com/meliht/Mr.SIP) - SIP based audit and attack tool.
+- [VoIPShark](https://github.com/pentesteracademy/voipshark) - Open Source VoIP Analysis Platform
 
 ## Papers
 
