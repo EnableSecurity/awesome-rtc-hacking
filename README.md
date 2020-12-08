@@ -64,6 +64,7 @@ Please create a PR if you think anything should be added to this list. Let us kn
 - [Mr.SIP](https://github.com/meliht/Mr.SIP) - SIP based audit and attack tool.
 - [VoIPShark](https://github.com/pentesteracademy/voipshark) - Open Source VoIP Analysis Platform
 - [Turner](https://github.com/staaldraad/turner) - PoC for tunnelling HTTP over a permissive/open TURN server.
+- [sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP swiss army knife, has some features that can be used for security testing (e.g. flood more or random mode)
 
 ## Papers
 
