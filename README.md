@@ -4,6 +4,20 @@ This list aims to cover VoIP, WebRTC and VoLTE security related topics.
 
 Please create a PR if you think anything should be added to this list. Let us know if you think anything should be removed.
 
+## Table of Contents
+
+- [Presentation Slides](#presentation-slides)
+- [Videos](#videos)
+- [Advisories](#advisories)
+- [Open-source tools](#open-source-tools)
+- [Papers](#papers)
+- [Blogs](#blogs)
+- [Notable blog posts and articles](#notable-blog-posts-and-articles)
+- [Books](#books)
+- [Commercial tools](#commercial-tools)
+- [Vulnerabilities](#vulnerabilities)
+- [Related lists](#related-lists)
+
 ## Presentation Slides
 
 - [Hacking VoIP Exposed](https://www.blackhat.com/presentations/bh-usa-06/BH-US-06-Endler.pdf) from Black Hat USA 2006.
