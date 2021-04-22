@@ -26,6 +26,7 @@ Please create a PR if you think anything should be added to this list. Let us kn
 
 ## Videos
 
+- [TAD Summit EMEA Americas 2020: Getting offensive: a different approach to RTC security - Sandro Gauci](https://www.youtube.com/watch?v=je959kV-MrY)
 - [HITBHaxpo D1: VoLTE Phreaking - Ralph Moonen](https://www.youtube.com/watch?v=H8vo56vImU4)
 - [Kamailio World 2019: The Various Ways Your RTC May Be Crushed - Sandro Gauci](https://www.youtube.com/watch?v=012U3NeTVlY)
 - [Kamailio World 2018: A tale of two RTC fuzzing approaches - Sandro Gauci](https://www.youtube.com/watch?v=CuxKD5zljVI)
