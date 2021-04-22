@@ -79,6 +79,7 @@ Please create a PR if you think anything should be added to this list. Let us kn
 - [VoIPShark](https://github.com/pentesteracademy/voipshark) - Open Source VoIP Analysis Platform
 - [Turner](https://github.com/staaldraad/turner) - PoC for tunnelling HTTP over a permissive/open TURN server.
 - [sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP swiss army knife, has some features that can be used for security testing (e.g. flood more or random mode)
+- [turnproxy](https://github.com/trichimtrich/turnproxy/) - Tool to abuse open TURN relays
 
 ## Papers
 
@@ -138,6 +139,11 @@ The following are generic or common vulnerabilities that are related to either s
 
 - [RTP bleed](https://rtpbleed.com)
 - [SIP Digest Leak](https://resources.enablesecurity.com/resources/sipdigestleak-tut.pdf)
+
+## CTFs and playgrounds
+
+- [SIPVicious PRO demo server](https://demo.sipvicious.pro) - for testing RTC attacks
+- [CSAW CTF Qualification Round 2020 / Tasks / WebRTC](https://ctftime.org/task/13011) - a CTF that featured a WebRTC related challenge
 
 ## Related lists
 
