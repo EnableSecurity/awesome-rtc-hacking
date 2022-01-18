@@ -6,6 +6,7 @@ Please create a PR if you think anything should be added to this list. Let us kn
 
 ## Table of Contents
 
+- [Newsletters](#newsletters)
 - [Presentation Slides](#presentation-slides)
 - [Videos](#videos)
 - [Advisories](#advisories)
@@ -17,6 +18,10 @@ Please create a PR if you think anything should be added to this list. Let us kn
 - [Commercial tools](#commercial-tools)
 - [Vulnerabilities](#vulnerabilities)
 - [Related lists](#related-lists)
+
+## Newsletters
+
+- [RTCSec Newsletter](https://www.rtcsec.com/newsletter/)
 
 ## Presentation Slides
 
