@@ -86,6 +86,7 @@ Please create a PR if you think anything should be added to this list. Let us kn
 - [Turner](https://github.com/staaldraad/turner) - PoC for tunnelling HTTP over a permissive/open TURN server.
 - [sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP swiss army knife, has some features that can be used for security testing (e.g. flood more or random mode)
 - [turnproxy](https://github.com/trichimtrich/turnproxy/) - Tool to abuse open TURN relays
+- [SeeYouCM Thief](https://github.com/trustedsec/SeeYouCM-Thief) - download and parse configuration files from Cisco phone systems searching for SSH credentials
 
 ## Papers
 
