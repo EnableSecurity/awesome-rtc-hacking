@@ -1,6 +1,6 @@
 # Awesome Real-time Communications hacking & pentesting resources
 
-This list aims to cover VoIP, WebRTC and VoLTE security related topics.
+Covers VoIP, WebRTC and VoLTE security related topics.
 
 Please create a PR if you think anything should be added to this list. Let us know if you think anything should be removed.
 
