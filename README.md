@@ -134,6 +134,7 @@ Please create a PR if you think anything should be added to this list. Let us kn
 - [Adventures in Video Conferencing Part 5: Where Do We Go from Here?](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-5.html)
 - [Analyzing two FreeSWITCH vulnerabilities – CVE-2021-41157 & CVE-2021-37624](https://0xinfection.github.io/posts/analyzing-freeswitch-vulns/)
 - [Abusing Microsoft Teams Direct Routing](https://blog.syss.com/posts/abusing-ms-teams-direct-routing/)
+- [Kamailio’s exec module considered harmful](https://www.rtcsec.com/article/kamailio-exec-module-considered-harmful/)
 
 ## Books
 
