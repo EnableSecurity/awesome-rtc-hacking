@@ -132,6 +132,7 @@ Please create a PR if you think anything should be added to this list. Let us kn
 - [Adventures in Video Conferencing Part 3: The Even Wilder World of WhatsApp](https://googleprojectzero.blogspot.com/search?q=Adventures+in+Video+Conferencing)
 - [Adventures in Video Conferencing Part 4: What Didn't Work Out with WhatsApp](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-4.html)
 - [Adventures in Video Conferencing Part 5: Where Do We Go from Here?](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-5.html)
+- [Exploiting CVE-2022-0778, a bug in OpenSSL vis-à-vis WebRTC platforms](https://www.rtcsec.com/article/exploiting-cve-2022-0778-in-openssl-vs-webrtc-platforms/)
 - [Analyzing two FreeSWITCH vulnerabilities – CVE-2021-41157 & CVE-2021-37624](https://0xinfection.github.io/posts/analyzing-freeswitch-vulns/)
 - [Abusing Microsoft Teams Direct Routing](https://blog.syss.com/posts/abusing-ms-teams-direct-routing/)
 - [Kamailio’s exec module considered harmful](https://www.rtcsec.com/article/kamailio-exec-module-considered-harmful/)
