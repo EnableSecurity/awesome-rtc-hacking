@@ -21,7 +21,7 @@ Please create a PR if you think anything should be added to this list. Let us kn
 
 ## Newsletters
 
-- [RTCSec Newsletter](https://www.rtcsec.com/newsletter/)
+- [RTCSec Newsletter](https://www.enablesecurity.com/newsletter/)
 
 ## Presentation Slides
 
@@ -119,23 +119,23 @@ Please create a PR if you think anything should be added to this list. Let us kn
 
 ## Blogs
 
-- [Communication Breakdown](https://www.rtcsec.com) - A blog about VoIP, WebRTC and real-time communications security by Enable Security; (formerly SIPVicious blog)
+- [Enable Security Blog](https://www.enablesecurity.com/blog/) - A blog about VoIP, WebRTC and real-time communications security by Enable Security
 - [Pepelux blog](http://blog.pepelux.org/) (Spanish)
 
 ## Notable blog posts and articles
 
 - [Understanding DTLS Usage in VoIP Communications](https://www.gremwell.com/node/954)
-- [How we abused Slack's TURN servers to gain access to internal services](https://www.rtcsec.com/2020/04/01-slack-webrtc-turn-compromise/)
+- [How we abused Slack's TURN servers to gain access to internal services](https://www.enablesecurity.com/blog/slack-webrtc-turn-compromise-and-bug-bounty/)
 - [Analyzing WhatsApp Calls with Wireshark, radare2 and Frida](https://medium.com/@schirrmacher/analyzing-whatsapp-calls-176a9e776213)
 - [Adventures in Video Conferencing Part 1: The Wild World of WebRTC](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-1.html)
 - [Adventures in Video Conferencing Part 2: Fun with FaceTime](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-2.html)
 - [Adventures in Video Conferencing Part 3: The Even Wilder World of WhatsApp](https://googleprojectzero.blogspot.com/search?q=Adventures+in+Video+Conferencing)
 - [Adventures in Video Conferencing Part 4: What Didn't Work Out with WhatsApp](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-4.html)
 - [Adventures in Video Conferencing Part 5: Where Do We Go from Here?](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-5.html)
-- [Exploiting CVE-2022-0778, a bug in OpenSSL vis-à-vis WebRTC platforms](https://www.rtcsec.com/article/exploiting-cve-2022-0778-in-openssl-vs-webrtc-platforms/)
+- [Exploiting CVE-2022-0778, a bug in OpenSSL vis-à-vis WebRTC platforms](https://www.enablesecurity.com/blog/exploiting-cve-2022-0778-in-openssl-vs-webrtc-platforms/)
 - [Analyzing two FreeSWITCH vulnerabilities – CVE-2021-41157 & CVE-2021-37624](https://0xinfection.github.io/posts/analyzing-freeswitch-vulns/)
 - [Abusing Microsoft Teams Direct Routing](https://blog.syss.com/posts/abusing-ms-teams-direct-routing/)
-- [Kamailio’s exec module considered harmful](https://www.rtcsec.com/article/kamailio-exec-module-considered-harmful/)
+- [Kamailio’s exec module considered harmful](https://www.enablesecurity.com/blog/kamailio-exec-module-considered-harmful/)
 
 ## Books
 
