@@ -135,12 +135,8 @@ Please create a PR if you think anything should be added to this list. Let us kn
 ## Books
 
 - [Hacking Exposed Unified Communications & VoIP Security Secrets & Solutions, Second Edition 2nd Edition](https://www.amazon.com/Hacking-Exposed-Communications-Security-Solutions-ebook/dp/B00EHIEDW2/) (published December 20, 2013)
-- [Hacking VoIP: Protocols, Attacks, and Countermeasures](https://www.amazon.com/Hacking-VoIP-Protocols-Attacks-Countermeasures-dp-1593271638/) (published March 21, 2008)
+- [Hacking VoIP: Protocols, Attacks, and Countermeasures](https://www.amazon.com/Hacking-VoIP-Protocols-Attacks-Countermeasures-ebook/dp/B004OEJN9C/ref=sr_1_1?sr=8-1) (published March 21, 2008)
 - [SIP Security](https://www.amazon.com/dp/0470516364/) (published April 27, 2009)
-
-## Commercial tools
-
-- [SIPVicious PRO](https://sipvicious.pro)
 
 ## Vulnerabilities
 
@@ -159,4 +155,3 @@ The following are generic or common vulnerabilities that are related to either s
 - [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking)
 - [Awesome RTC](https://github.com/rtckit/awesome-rtc/)
 - [Awesome Telco](https://github.com/ravens/awesome-telco)
-- [VoIP Security Resources](https://www.intuitivelabs.com/resources)
