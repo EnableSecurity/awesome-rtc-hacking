@@ -4,9 +4,9 @@ A curated list of Real-time Communications (RTC) security resources focused on V
 
 ## Latest Updates
 
-- 2024-12: Added new WebRTC security tools and papers
 - 2024-12: Updated broken links and references
-- 2024-12: Added CTF challenges section
+- 2024-12: Add new blogs
+
 
 ## Contributing
 
@@ -91,9 +91,9 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ## Open-source tools
 
-- [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) - A set of tools to audit SIP based systems (2023 active)
+- [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) - A set of tools to audit SIP based systems
 - [SIPPTS](https://github.com/Pepelux/sippts) - Another set of tools to audit VoIP servers and devices using SIP protocol.
-- [bluebox-ng](https://github.com/jesusprubio/bluebox-ng) - Pentesting framework using Node.js powers, focused in VoIP.
+- [bluebox-ng](https://github.com/jesusprubio/bluebox-ng) - Pentesting framework using Node.js powers, focused in VoIP. (public archive)
 - [SigPloit](https://github.com/SigPloiter/SigPloit) - Tool which covers all used SS7, GTP (3G), Diameter (4G) or even SIP protocols for IMS and VoLTE infrastructures.
 - [vsaudit](https://github.com/eurialo/vsaudit) - VoIP security assessment framework.
 - [rtpnatscan](https://github.com/kapejod/rtpnatscan) - Tool which tests for [rtpbleed](http://rtpbleed.com) vulnerability.
@@ -173,7 +173,6 @@ The following are generic or common vulnerabilities that are related to either s
 
 - [SIPVicious PRO demo server](https://demo.sipvicious.pro) - Live environment for testing RTC attacks
 - [CSAW CTF Qualification Round 2020 / Tasks / WebRTC](https://ctftime.org/task/13011) - CTF challenge featuring WebRTC (2020)
-- [VoIP Hacking Lab Setup Guide](https://www.pentestpartners.com/security-blog/how-to-build-your-own-voip-hacking-lab/) - Guide to setting up a test environment
 
 ## Related lists
 
