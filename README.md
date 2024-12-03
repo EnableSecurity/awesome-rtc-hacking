@@ -115,7 +115,9 @@ Please create a PR if you think anything should be added to this list. Let us kn
 ## Blogs
 
 - [Enable Security Blog](https://www.enablesecurity.com/blog/) - A blog about VoIP, WebRTC and real-time communications security by Enable Security
-- [Pepelux blog](http://blog.pepelux.org/) (Spanish)
+- [Pepelux blog](https://blog.pepelux.org/) (Spanish)
+- [Kwancro - Thoughts, tips and tricks](https://www.kwancro.com/) - Often covers SIP honeypot activity and related security topics
+- [Fred Posner's Blog](https://www.fredposner.com/) - includes commentary on VoIP security topics
 
 ## Notable blog posts and articles
 
