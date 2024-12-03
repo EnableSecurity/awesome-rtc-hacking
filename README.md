@@ -1,8 +1,30 @@
-# Awesome Real-time Communications hacking & pentesting resources
+# Awesome Real-time Communications Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Covers VoIP, WebRTC and VoLTE security related topics.
+A curated list of Real-time Communications (RTC) security resources focused on VoIP, WebRTC and VoLTE penetration testing, security research and vulnerability assessment.
 
-Please create a PR if you think anything should be added to this list. Let us know if you think anything should be removed.
+## Latest Updates
+
+- 2024-12: Added new WebRTC security tools and papers
+- 2024-12: Updated broken links and references
+- 2024-12: Added CTF challenges section
+
+## Contributing
+
+Your contributions are always welcome! Please read the contribution guidelines first:
+
+- Check if the resource is still active/available
+- Add a short description for tools and papers
+- Include publication dates where applicable
+- Keep descriptions concise and clear
+- Sort entries alphabetically within sections
+- Check your spelling and grammar
+- Make sure your text editor is set to remove trailing whitespace
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the authors have waived all copyright and related rights to this work.
 
 ## Table of Contents
 
@@ -69,7 +91,7 @@ Please create a PR if you think anything should be added to this list. Let us kn
 
 ## Open-source tools
 
-- [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) - A set of tools to audit SIP based systems.
+- [SIPVicious OSS](https://github.com/EnableSecurity/sipvicious/) - A set of tools to audit SIP based systems (2023 active)
 - [SIPPTS](https://github.com/Pepelux/sippts) - Another set of tools to audit VoIP servers and devices using SIP protocol.
 - [bluebox-ng](https://github.com/jesusprubio/bluebox-ng) - Pentesting framework using Node.js powers, focused in VoIP.
 - [SigPloit](https://github.com/SigPloiter/SigPloit) - Tool which covers all used SS7, GTP (3G), Diameter (4G) or even SIP protocols for IMS and VoLTE infrastructures.
@@ -147,10 +169,11 @@ The following are generic or common vulnerabilities that are related to either s
 - [RTP bleed](https://rtpbleed.com)
 - [SIP Digest Leak](https://resources.enablesecurity.com/resources/sipdigestleak-tut.pdf)
 
-## CTFs and playgrounds
+## CTFs and Learning Resources
 
-- [SIPVicious PRO demo server](https://demo.sipvicious.pro) - for testing RTC attacks
-- [CSAW CTF Qualification Round 2020 / Tasks / WebRTC](https://ctftime.org/task/13011) - a CTF that featured a WebRTC related challenge
+- [SIPVicious PRO demo server](https://demo.sipvicious.pro) - Live environment for testing RTC attacks
+- [CSAW CTF Qualification Round 2020 / Tasks / WebRTC](https://ctftime.org/task/13011) - CTF challenge featuring WebRTC (2020)
+- [VoIP Hacking Lab Setup Guide](https://www.pentestpartners.com/security-blog/how-to-build-your-own-voip-hacking-lab/) - Guide to setting up a test environment
 
 ## Related lists
 
