@@ -1,4 +1,4 @@
-# Awesome Real-time Communications Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Real-time Communications Security [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of Real-time Communications (RTC) security resources focused on VoIP, WebRTC and VoLTE penetration testing, security research and vulnerability assessment.
 
