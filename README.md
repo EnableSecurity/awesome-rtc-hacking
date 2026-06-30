@@ -177,7 +177,6 @@ The following are generic or common vulnerabilities that are related to either s
 
 ## CTFs and Learning Resources
 
-- [SIPVicious PRO demo server](https://demo.sipvicious.pro) - Live environment for testing RTC attacks
 - [DVRTC (Damn Vulnerable Real-Time Communications)](https://github.com/EnableSecurity/DVRTC) - intentionally vulnerable VoIP/WebRTC lab (Kamailio, Asterisk, rtpengine, coturn) for hands-on RTC security training.
 - [RTC_Attacks](https://github.com/WebRTC-Thesis-Unina/RTC_Attacks) - vulnerable RTC lab from University of Naples with CVE-anchored exploit scenarios (SIP MESSAGE spoofing, RTP Bleed, coturn ACL bypass and more).
 - [CSAW CTF Qualification Round 2020 / Tasks / WebRTC](https://ctftime.org/task/13011) - CTF challenge featuring WebRTC (2020)
