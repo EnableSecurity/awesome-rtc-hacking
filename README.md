@@ -4,6 +4,7 @@ A curated list of Real-time Communications (RTC) security resources focused on V
 
 ## Latest Updates
 
+- 2026-06: Add new tools (TURNado, TURNt, sipexer, twilio-security-scanner, H26Forge) and vulnerable labs (DVRTC, RTC_Attacks)
 - 2024-12: Updated broken links and references
 - 2024-12: Add new blogs
 
@@ -106,10 +107,15 @@ To the extent possible under law, the authors have waived all copyright and rela
 - [VoIPShark](https://github.com/pentesteracademy/voipshark) - Open Source VoIP Analysis Platform
 - [Turner](https://github.com/staaldraad/turner) - PoC for tunnelling HTTP over a permissive/open TURN server.
 - [sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP swiss army knife, has some features that can be used for security testing (e.g. flood more or random mode)
+- [sipexer](https://github.com/miconda/sipexer) - modern and flexible SIP command line client for testing SIP servers and devices, with custom requests, registration floods, stateful dialogues and lightweight fuzzing.
 - [turnproxy](https://github.com/trichimtrich/turnproxy/) - Tool to abuse open TURN relays
 - [SeeYouCM Thief](https://github.com/trustedsec/SeeYouCM-Thief) - download and parse configuration files from Cisco phone systems searching for SSH credentials
 - [stunner](https://github.com/firefart/stunner) -  a tool to test and exploit STUN, TURN and TURN over TCP servers.
+- [TURNado](https://github.com/SySS-Research/TURNado) - TURN attack toolkit from SySS that automates internal IP disclosure, UDP relay forwarding to internal/loopback services, SOCKS proxying, layer-3 tunnelling and allocation-based DoS.
+- [TURNt](https://github.com/praetorian-inc/turnt) - PoC from Praetorian that abuses TURN servers (e.g. Zoom and Teams) to tunnel command-and-control traffic over web-conferencing infrastructure (the "Ghost Calls" technique).
 - [VoIP Hopper](https://github.com/iknowjason/voiphopper) - a tool to exploit insecure VLANs that are often found in IP Telephony infrastructure.
+- [twilio-security-scanner](https://github.com/relayhawk/twilio-security-scanner) - scans Twilio Serverless deployments for misconfigurations such as public functions and assets, unencrypted webhooks and stale API keys.
+- [H26Forge](https://github.com/h26forge/h26forge) - generates and fuzzes syntactically valid but spec-non-compliant H.264 video to find decoder vulnerabilities (relevant to WebRTC video attack surface).
 
 ## Papers
 
@@ -172,6 +178,8 @@ The following are generic or common vulnerabilities that are related to either s
 ## CTFs and Learning Resources
 
 - [SIPVicious PRO demo server](https://demo.sipvicious.pro) - Live environment for testing RTC attacks
+- [DVRTC (Damn Vulnerable Real-Time Communications)](https://github.com/EnableSecurity/DVRTC) - intentionally vulnerable VoIP/WebRTC lab (Kamailio, Asterisk, rtpengine, coturn) for hands-on RTC security training.
+- [RTC_Attacks](https://github.com/WebRTC-Thesis-Unina/RTC_Attacks) - vulnerable RTC lab from University of Naples with CVE-anchored exploit scenarios (SIP MESSAGE spoofing, RTP Bleed, coturn ACL bypass and more).
 - [CSAW CTF Qualification Round 2020 / Tasks / WebRTC](https://ctftime.org/task/13011) - CTF challenge featuring WebRTC (2020)
 
 ## Related lists
