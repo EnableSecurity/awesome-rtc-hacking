@@ -100,6 +100,7 @@ To the extent possible under law, the authors have waived all copyright and rela
 - [rtpnatscan](https://github.com/kapejod/rtpnatscan) - Tool which tests for [rtpbleed](http://rtpbleed.com) vulnerability.
 - [VIPROY](https://github.com/fozavci/viproy-voipkit) - VoIP pentest framework which can be used with the metasploit-framework.
 - [SIP Proxy](https://sourceforge.net/projects/sipproxy/) - A VoIP security testing tool.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 - [Metasploit auxiliary modules](https://github.com/rapid7/metasploit-framework/tree/master/modules/auxiliary/voip)
 - [SIPp](http://sipp.sourceforge.net/): SIP based test tool / traffic generator.
     - [SIPp digest leak scenario](http://tomeko.net/other/sipp/sipp_cheatsheet.php)
